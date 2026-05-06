@@ -36,6 +36,7 @@ bookSection.innerHTML=`
         <li>Book 1</li>
         <li>Book 2</li>
     </ul>
+    
 `;
 
 mainContainer.appendChild(bookSection);
